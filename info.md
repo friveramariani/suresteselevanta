@@ -14,3 +14,5 @@ En esta páagina puedes encontrar varios enlaces de información que pueden serv
 - *Accede a este enlace:* https://www.disasterassistance.gov/es
 - *teléfono al cual puedes llamar:* **1-800-621-FEMA (3362)**
 - *horarios:* **7:00AM a 10:00PM**
+
+<img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
