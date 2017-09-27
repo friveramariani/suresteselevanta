@@ -15,7 +15,9 @@ Con un "click" en este enlace [https://www.gofundme.com/sureste-pr-se-levanta](h
 [<img src="images/GoFundMe.jpg" alt="hi" class="inline"/>](https://www.gofundme.com/sureste-pr-se-levanta)
 
 
-Visita la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info) que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los nuestros a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
+
+
+No olvides visitar la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info) que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los nuestros a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
 
 <img src="images/PSX_20170809_214828.jpg" alt="hi" class="inline"/>
 
