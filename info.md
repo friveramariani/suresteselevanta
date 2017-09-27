@@ -43,7 +43,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 
 [https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater](https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater)
 
+<img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
+
 #Puertoricoselevanta
 #suresteselevanta
-
-<img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
