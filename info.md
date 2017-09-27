@@ -8,12 +8,12 @@ title: Otras Fuentes de Información
 
 En esta página, puedes encontrar varios enlaces y fuentes de información que pueden servir de ayuda en el proceso de recuperación a raíz del huracán María, como por ejemplo información de
 
-- [Asistencia Gbernamental]
+- [Asistencia Gubernamental]
 - [Servicio de Envío]
 - [Sugerencias y Soluciones Caseras]
 - entre otros que continuamente estaremos compartiendo
 
-#### Asistencia Gbernamental
+#### Asistencia Gubernamental
 ##### *FEMA (Federal Emergency Management Agency)*
 - *Accede a este enlace:* [https://www.disasterassistance.gov/es](https://www.disasterassistance.gov/es)
 - *teléfono:* **1-800-621-FEMA (3362)**
