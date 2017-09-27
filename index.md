@@ -6,7 +6,6 @@ title: El Sureste de Puerto Rico Se Levanta
 
 [**Quienes Somos**](https://friveramariani.github.io/suresteselevanta/about) | [**Donativos**](https://friveramariani.github.io/suresteselevanta/donativos) 
 
-
 <img src="images/Arroyo-Guayama -Patillas.png" alt="hi" class="inline"/> 
 
 Iniciativa organizada, por Graduados de la Escuela Superior Carmen Bozello de Hueyke de Arroyo, tiene como misión garantizar que la ayuda a corto y largo plazo llegue a los nuestros en los pueblos de Guayama, Arroyo, y Patillas. 
