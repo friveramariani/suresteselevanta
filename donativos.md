@@ -6,7 +6,14 @@ title: Información para Donativos
 
 [**Página Inicial**](https://friveramariani.github.io/suresteselevanta) | [**Quiénes Somos**](https://friveramariani.github.io/suresteselevanta/about) | [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info)
 
-*Pronto estaremos añadiendo enlaces para que puedas realizar tus donativos para ayudar a nuestra gente del área de Guayama, Arroyo, y Patillas*.
+Encuentra en esta página información de nuestra campaña de recaudación de fondos. 
+
+#### Campaña de a través de GoFundMe  
+
+Con un "click" en este enlace [https://www.gofundme.com/sureste-pr-se-levanta](https://www.gofundme.com/sureste-pr-se-levanta), o en la foto abajo, puedes acceder a nuesta página de GoFundMe y aportar a nuestra misión de ayudar a nuestra gente de los puebls de Guayama, Arroyo, y Patillas.
+
+[<img src="images/GoFundMe.jpg" alt="hi" class="inline"/>](https://www.gofundme.com/sureste-pr-se-levanta)
+
 
 Visita la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info) que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los nuestros a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
 
