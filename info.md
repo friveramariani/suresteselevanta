@@ -36,7 +36,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 	+ Carolina, PR (Parque Industrial Julio N. Matos, Carolina, PR)
 
 #### Sugerencias y Soluciones Caseras
-##### *Forma correcta de utilizar las cajas "Flat Rate" el servicio postal*
+##### *Forma correcta de utilizar las cajas "Flat Rate" del servicio postal*
 [https://www.facebook.com/Lizita02/videos/10212727007663194/](https://www.facebook.com/Lizita02/videos/10212727007663194/)
 
 ##### *Utilizar bateria de carro para energizar enseres*
