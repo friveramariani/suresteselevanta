@@ -6,9 +6,14 @@ title: Otras Fuentes de Información
 
 [**Página Inicial**](https://friveramariani.github.io/suresteselevanta) | [**Quienes Somos**](https://friveramariani.github.io/suresteselevanta/about) | [**Donativos**](https://friveramariani.github.io/suresteselevanta/donativos) 
 
-En esta página, puedes encontrar varios enlaces y fuentes de información que pueden servir de ayuda en el proceso de recuperación a raíz del huracán María. 
+En esta página, puedes encontrar varios enlaces y fuentes de información que pueden servir de ayuda en el proceso de recuperación a raíz del huracán María, como por ejemplo información de
 
-#### Asistencia gubernamental
+- [Asistencia Gbernamental]
+- [Servicio de Envío]
+- [Sugerencias y Soluciones Caseras]
+- entre otros que continuamente estaremos compartiendo
+
+#### Asistencia Gbernamental
 ##### *FEMA (Federal Emergency Management Agency)*
 - *Accede a este enlace:* [https://www.disasterassistance.gov/es](https://www.disasterassistance.gov/es)
 - *teléfono:* **1-800-621-FEMA (3362)**
