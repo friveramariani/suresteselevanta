@@ -6,7 +6,7 @@ title: Otras Fuentes de Información
 
 [**Página Inicial**](https://friveramariani.github.io/suresteselevanta) | [**Quienes Somos**](https://friveramariani.github.io/suresteselevanta/about) | [**Donativos**](https://friveramariani.github.io/suresteselevanta/donativos) 
 
-En esta páagina puedes encontrar varios enlaces de información que pueden servirte de ayuda en el proceso de recuperación a raíz del huracán María: 
+En esta página puedes encontrar varios enlaces y fuentes de información que pueden servirte de ayuda en el proceso de recuperación a raíz del huracán María.
 
 #### Asistencia gubernamental
 
