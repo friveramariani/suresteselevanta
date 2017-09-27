@@ -35,4 +35,15 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 	+ Philadelphia, Pennsylvania (238 West Cambria St. Philadelphia, PA 19133)
 	+ Carolina, PR (Parque Industrial Julio N. Matos, Carolina, PR)
 
+#### Sugerencias y Soluciones Caseras
+##### *Forma correcta de utilizar las cajas "Flat Rate" el servicio postal*
+[https://www.facebook.com/Lizita02/videos/10212727007663194/](https://www.facebook.com/Lizita02/videos/10212727007663194/)
+
+##### *Utilizar bateria de carro para energizar enseres*
+
+[https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater](https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater)
+
+#Puertoricoselevanta
+#suresteselevanta
+
 <img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
