@@ -12,7 +12,7 @@ Además de ser educadores, profesores y científicos, nos caracteriza el lideraz
 
 Haremos lo que esté a nuestro alcance para encaminar a nuestros pueblos de Guayama, Arroyo y Patillas a lo que eran, o mejor, que antes del huracán María.
 
-¡Contamos con su apoyo
+¡Contamos con su apoyo!
 
 No olvides visitar la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info), en donde puedes encontrar información adicional que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los puebos del sureste de Puerto Rico a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
 
