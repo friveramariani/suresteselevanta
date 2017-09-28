@@ -8,9 +8,10 @@ title: Otras Fuentes de Información
 
 En esta página, puedes encontrar varios enlaces y fuentes de información que pueden servir de ayuda a los nuestros en el proceso de recuperación a raíz del huracán María, como por ejemplo información de
 
-- [Asistencia Gubernamental]
-- [Servicio de Envío]
-- [Sugerencias y Soluciones Caseras]
+- ***Asistencia Gubernamental***
+- ***Servicio de Envío***
+- ***Sugerencias y Soluciones Caseras***
+- ***Como Ayudar en la Educación Universitaria***
 - entre otros que continuamente estaremos compartiendo
 
 #### Asistencia Gubernamental
@@ -47,6 +48,9 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 ##### *Utilizar bateria de carro para energizar enseres*
 
 [https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater](https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater)
+
+#### Como Ayudar en la Educación Universitaria
+Si eres profesor o administrador en una institución universitaria en los Estados Unidos, regístrate en este enlace [https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ](https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ) para que extiendas la mano a nuestros colegas universitarios que han perdido sus experimentos y lugares de crear nuevo conocimiento científico a raíz del huracán Maria. 
 
 <img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
 
