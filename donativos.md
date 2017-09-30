@@ -14,6 +14,8 @@ Con un "click" en este enlace [https://www.gofundme.com/sureste-pr-se-levanta](h
 
 <iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='sureste-pr-se-levanta'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 
+***La ayuda se espera pueda ser entregada personalmente en los municipios a finales del mes de octubre.***
+
 No olvides visitar la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info), en donde puedes encontrar información adicional que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los puebos del sureste de Puerto Rico a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
 
 <img src="images/PSX_20170809_214828.jpg" alt="hi" class="inline"/>
