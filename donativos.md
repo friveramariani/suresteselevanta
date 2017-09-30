@@ -12,9 +12,7 @@ Encuentra en esta página información de nuestra campaña de recaudación de fo
 
 Con un "click" en este enlace [https://www.gofundme.com/sureste-pr-se-levanta](https://www.gofundme.com/sureste-pr-se-levanta), o en la foto abajo, puedes acceder a nuesta página de GoFundMe y aportar a nuestra misión de ayudar a nuestra gente de los pueblos de Guayama, Arroyo, y Patillas.
 
-[<img src="images/GoFundMe.jpg" alt="hi" class="inline"/>](https://www.gofundme.com/sureste-pr-se-levanta)
-
-
+<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='sureste-pr-se-levanta'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 
 No olvides visitar la página de [**Información Adicional**](https://friveramariani.github.io/suresteselevanta/info), en donde puedes encontrar información adicional que puedes proveer a los nuestros o facilitarte otras vías de como ayudar a los puebos del sureste de Puerto Rico a **levantarse**. ***#PuertoRicoSeLevanta*** y el ***SurEsteSeLevanta***.
 
