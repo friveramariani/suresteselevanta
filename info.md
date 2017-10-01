@@ -50,7 +50,9 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 [https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater](https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater)
 
 #### Como Ayudar en la Educación Universitaria
-Si eres profesor o administrador en una institución universitaria en los Estados Unidos, regístrate en este enlace [https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ](https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ) para que extiendas la mano a nuestros colegas universitarios que han perdido sus experimentos y lugares de crear nuevo conocimiento científico a raíz del huracán Maria. 
+Si eres profesor o administrador en una institución universitaria en los Estados Unidos, 
+- regístrate en este enlace [https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ](https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ) para que extiendas la mano a nuestros colegas universitarios que han perdido sus experimentos y lugares de crear nuevo conocimiento científico a raíz del huracán Maria. 
+- registrate en este enlace [https://docs.google.com/forms/d/e/1FAIpQLSftf_7eBWn-n0cjWx-q8bM_BwTmY33vzj93BKHu321bEZOiIw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSftf_7eBWn-n0cjWx-q8bM_BwTmY33vzj93BKHu321bEZOiIw/viewform) para poder identificar voluntarios que puedan cooperar en ofrecer cursos universitarios a estudiantes que hayan visto afectado sus semestres universitarios a raíz del huracán María.
 
 <img src="images/PSX_20170730_130417.jpg" alt="hi" class="inline"/>
 
