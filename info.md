@@ -14,7 +14,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 - [***Como Ayudar en la Educación Universitaria***](#Como Ayudar en la Educación Universitaria)
 - entre otros que continuamente estaremos compartiendo
 
-#### Asistencia Gubernamental
+#### <a name="Asistencia Gubernamental"></a>
 ##### *FEMA (Federal Emergency Management Agency)*
 - *Accede a este enlace:* [https://www.disasterassistance.gov/es](https://www.disasterassistance.gov/es)
 - *teléfono:* **1-800-621-FEMA (3362)**
@@ -31,7 +31,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 - *teléfono:* **202-224-3121**
 
 
-#### Servicio de Envío
+#### <a name="Servicio de Envío"></a>
 ##### *PrycoMovers*
 - *Accede a este enlace:* [https://www.facebook.com/PrycoMovers/posts/910345142454502](https://www.facebook.com/PrycoMovers/posts/910345142454502)
 - *teléfono*: **1-877-507-2650**
@@ -41,7 +41,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 	+ Philadelphia, Pennsylvania (238 West Cambria St. Philadelphia, PA 19133)
 	+ Carolina, PR (Parque Industrial Julio N. Matos, Carolina, PR)
 
-#### Sugerencias y Soluciones Caseras
+#### <a name="Sugerencias y Soluciones Caseras"></a>
 ##### *Forma correcta de utilizar las cajas "Flat Rate" del servicio postal*
 [https://www.facebook.com/Lizita02/videos/10212727007663194/](https://www.facebook.com/Lizita02/videos/10212727007663194/)
 
@@ -49,7 +49,7 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 
 [https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater](https://www.facebook.com/annette.larroysanabria/videos/pcb.1633799110024940/1633791693359015/?type=3&theater)
 
-#### Como Ayudar en la Educación Universitaria
+#### <a name="Como Ayudar en la Educación Universitaria"></a> 
 Si eres profesor o administrador en una institución universitaria en los Estados Unidos, 
 - regístrate en este enlace [https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ](https://yalesurvey.qualtrics.com/jfe/form/SV_6YigLXts7kTr2YJ) para que extiendas la mano a nuestros colegas universitarios que han perdido sus experimentos y lugares de crear nuevo conocimiento científico a raíz del huracán Maria. 
 - registrate en este enlace [https://docs.google.com/forms/d/e/1FAIpQLSftf_7eBWn-n0cjWx-q8bM_BwTmY33vzj93BKHu321bEZOiIw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSftf_7eBWn-n0cjWx-q8bM_BwTmY33vzj93BKHu321bEZOiIw/viewform) para poder identificar voluntarios que puedan cooperar en ofrecer cursos universitarios a estudiantes que hayan visto afectado sus semestres universitarios a raíz del huracán María.
