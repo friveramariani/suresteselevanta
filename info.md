@@ -9,7 +9,7 @@ title: Otras Fuentes de Información
 En esta página, puedes encontrar varios enlaces y fuentes de información que pueden servir de ayuda a los nuestros en el proceso de recuperación a raíz del huracán María, como por ejemplo información de
 
 - [***Asistencia Gubernamental***](#Asistencia Gubernamental)
-- [***Servicio de Envío](#Servicio de Envío***)
+- [***Servicio de Envío***](#Servicio de Envío)
 - [***Sugerencias y Soluciones Caseras***](#Sugerencias y Soluciones Caseras)
 - [***Como Ayudar en la Educación Universitaria***](#Como Ayudar en la Educación Universitaria)
 - entre otros que continuamente estaremos compartiendo
