@@ -25,6 +25,9 @@ En esta página, puedes encontrar varios enlaces y fuentes de información que p
 - *teléfono:* **1-877-872-5627**
 - *teléfono:* **1-877-889-5627 (con asistencia auditva)**
 
+#### *
+- *Accede a este enlace* [https://aldia.microjuris.com/2017/09/27/ayudas-fema-asistencia-de-desempleo-por-desastre/](https://aldia.microjuris.com/2017/09/27/ayudas-fema-asistencia-de-desempleo-por-desastre/) para ayuda de desempleo atraveés de FEMA (Federal Emergency Management Agency). Es importante que revises en detalle los requisitos de esta ayuda de FEMA. 
+
 ##### *Enlace para contactar a congresistas a tomar acción:*
 
 - [https://docs.google.com/document/d/1LPS_qgFaDO9fDeAz7ExjsMmYwZHPRAuUR43MpYogN5M/mobilebasic](https://docs.google.com/document/d/1LPS_qgFaDO9fDeAz7ExjsMmYwZHPRAuUR43MpYogN5M/mobilebasic)
